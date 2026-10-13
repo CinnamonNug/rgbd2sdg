@@ -13,7 +13,7 @@ Before installation note we highly recommend 8GB or more of RAM and 4GB or more 
 Firstly, clone the Git project into your chosen directory:
 ```cmd
 git clone https://github.com/CinnamonNug/rgbd2sdg.git
-cd capstone-project-2024-t3-3900-W15A_CELERY
+cd rgbd2sdg
 ```
 
 ## Activate Virtual Environment (Optional)
