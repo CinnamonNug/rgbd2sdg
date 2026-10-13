@@ -12,7 +12,7 @@ Before installation note we highly recommend 8GB or more of RAM and 4GB or more 
 ## Clone Repository
 Firstly, clone the Git project into your chosen directory:
 ```cmd
-git clone https://github.com/unsw-cse-comp99-3900/capstone-project-2024-t3-3900-W15A_CELERY.git
+git clone https://github.com/CinnamonNug/rgbd2sdg.git
 cd capstone-project-2024-t3-3900-W15A_CELERY
 ```
 
